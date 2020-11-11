@@ -5,4 +5,4 @@
 - Running clients: poetry
 
 ## Pull Request
-- Pull request:  
+- Pull request: https://github.com/MkayButters/math-series/pull/1
